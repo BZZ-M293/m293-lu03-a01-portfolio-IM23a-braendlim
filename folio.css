@@ -1,0 +1,16 @@
+#loginform {
+    background-color: #b00b69;
+    -webkit-text-fill-color: #800869 ;
+    -webkit-text-stroke: 5px white;
+}
+section {
+    background-color: pink ;
+    border-radius: 25px;
+    font-size: 16px;
+    font-family: Futura, sans-serif;
+    font-style: revert;
+    width: auto;
+    height: auto;
+    padding: 5px 30px 5px 30px;
+    color: black;
+}
