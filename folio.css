@@ -1,7 +1,8 @@
 #loginform {
     background-color: #b00b69;
-    -webkit-text-fill-color: #800869 ;
-    -webkit-text-stroke: 5px white;
+    -webkit-text-stroke: 1px #800869;
+    color: white;
+    text-shadow: 3px 3px 0 #800869, -1px -1px 0 #800869, 1px -1px 0 #800869, -1px 1px 0 #800869, 11px 1px 0 #800869;
 }
 section {
     background-color: pink ;
