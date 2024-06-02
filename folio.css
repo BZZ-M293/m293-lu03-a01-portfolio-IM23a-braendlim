@@ -3,14 +3,15 @@
     -webkit-text-stroke: 1.5px #800869;
     color: white;
 }
+
 section {
-    background-color: pink ;
+    background-color: pink;
     border-radius: 25px;
     font-size: 16px;
     font-family: Futura, sans-serif;
     width: auto;
     height: auto;
-    padding: 5px 30px 5px 30px;
+    padding: 5px 30px;
     -webkit-text-stroke: thin black;
     color: black;
 
